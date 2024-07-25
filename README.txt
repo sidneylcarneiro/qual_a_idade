@@ -3,7 +3,7 @@ data_de_nascimento.py
 ---
 
 **Desenvolvido por:** Sidneylcarneiro  
-**Contato:** sidneylcarneiro@yahoo.com
+**Contato:** sidneylcarneiro@gmail.com
 
 # Calculadora de Idade
 
